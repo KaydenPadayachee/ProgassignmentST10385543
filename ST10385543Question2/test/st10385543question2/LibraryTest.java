@@ -14,6 +14,7 @@ import static org.junit.Assert.*;
  *
  * @author kpada
  */
+// tests all methods in the class
 public class LibraryTest {
     
    
