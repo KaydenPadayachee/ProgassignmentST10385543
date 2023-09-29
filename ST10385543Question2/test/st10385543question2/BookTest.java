@@ -13,6 +13,7 @@ import static org.junit.Assert.*;
  *
  * @author kpada
  */
+// test class for book class and it tests all the methods in this class
 public class BookTest {
      @Test
     public void testBookConstructor() {
