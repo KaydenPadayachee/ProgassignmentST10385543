@@ -13,6 +13,7 @@ import static org.junit.Assert.*;
  *
  * @author kpada
  */
+// tests all methods in customer class
 public class CustomerTest {
     
     public CustomerTest() {
